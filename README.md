@@ -24,6 +24,9 @@ To safely initiate **XTERMINATORL**, your starship's mainframe should meet the f
 ### USER MANUAL
  Failure to follow the prescribed guidelines may result in permanent loss of matter, time distortions, and unwanted attention from intergalactic entities. 👽
 
+
+Run this on the victim's machine
+python3 main.py
 ---
 
 Remember, with great power, comes great responsibility. Handle **XTERMINATOR** with the same care as you would an unexplored galaxy. 🌀
