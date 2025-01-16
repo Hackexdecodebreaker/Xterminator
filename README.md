@@ -15,8 +15,8 @@ To safely initiate **XTERMINATORL**, your starship's mainframe should meet the f
 - **Memory**: 100 Teraflops of available neural RAM.
 - **OS**: GalacticOS 3.14 or above.
 
-### ABOUT STARFALL
-**STARFALL** is an experimental warp initiation protocol developed in the depths of the Andromeda Research Station. Its primary functionality includes, but is not limited to:
+### ABOUT Xterminator 
+**Xterminator** is an experimental warp initiation protocol developed in the depths of the Andromeda Research Station. Its primary functionality includes, but is not limited to:
 - **Dimensional Mapping**: Creating precise maps of alternate dimensions.
 - **Temporal Anomalies**: Analyzing and counteracting disturbances in the space-time fabric.
 - **Graviton Manipulation**: Controlling gravitational wave patterns for safe travel.
